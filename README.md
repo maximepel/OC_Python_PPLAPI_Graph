@@ -10,3 +10,5 @@ Purement, il affiche la moyenne du degré d'agréabilité(y) des zones en foncti
 # Classes :
 - Agent : représente les individus recueillis (100.000 instances)
 - Position : représente la position d'un individu sur la Terre (latitude et longitude appliquées à l'échelle de la Terre)
+- Zone : classe essentiellement statique qui représente la Terre (une zone de petites zones)
+- BaseGraph & AgreeabiliteGraph : pour la représentation visuelle 
